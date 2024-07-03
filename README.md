@@ -1,3 +1,9 @@
+
+
+
+Uploading diabetes_pred_app · Streamlit - Personal - Microsoft​ Edge 2024-07-02 07-23-34.mp4…
+
+
 # Diabetes Prediction App
 
 This repository contains a Streamlit application for predicting diabetes using machine learning models. The app provides a user-friendly interface for making diabetes predictions based on various input features.
