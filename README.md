@@ -1,7 +1,10 @@
 
 
 
-Uploading diabetes_pred_app · Streamlit - Personal - Microsoft​ Edge 2024-07-02 07-23-34.mp4…
+
+
+https://github.com/najmarazzaq761/Diabetes-Prediction-App/assets/148422805/5835fd79-dcaa-4162-a573-623e92a9a379
+
 
 
 # Diabetes Prediction App
